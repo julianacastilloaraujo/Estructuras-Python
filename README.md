@@ -8,3 +8,7 @@ Manejo de estructuras para el planteamiento de los siguientes ejercicios ✨<br>
 * Conversion
 * Sistema de numeracion
 * Funciones de conversion
+
+
+# Lista
+* Append 
