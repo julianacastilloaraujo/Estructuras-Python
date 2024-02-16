@@ -12,3 +12,4 @@ Manejo de estructuras para el planteamiento de los siguientes ejercicios ✨<br>
 
 # Lista
 * Append 
+* Insert
