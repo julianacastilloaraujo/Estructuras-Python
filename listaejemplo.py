@@ -6,3 +6,4 @@ lista.extend([6,7,8])
 
 
 print(3 in lista)
+print(lista.index(5))
