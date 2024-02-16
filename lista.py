@@ -4,4 +4,3 @@ print(lista[-4])
 print(lista[0:3])
 
 
-
