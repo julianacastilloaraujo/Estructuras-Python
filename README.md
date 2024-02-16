@@ -3,3 +3,8 @@ Ejercicios de la clase realizados en python 🐍 para la clase de Linea de Profu
 Manejo de estructuras para el planteamiento de los siguientes ejercicios ✨<br>
 * Vocal
 * Cajero
+
+# Funciones
+* Conversion
+* Sistema de numeracion
+* Funciones de conversion
