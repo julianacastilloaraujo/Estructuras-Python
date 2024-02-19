@@ -1,5 +1,5 @@
 # Estructuras-Python 🐍 
-Estructuras en #python 🐍 vista en la clase de Linea de Profundizacion III | Universidad de Cundinamarca, Seccional Ubaté 🇨🇴 Algunos topics<strong>Topics 🌐</strong>: If, Elif, Else, Tupla, Diccionario <br>
+Estructuras en #python 🐍 vista en la clase de Linea de Profundizacion III | Universidad de Cundinamarca, Seccional Ubaté 🇨🇴 Algunos topics<strong>Topics 🌐</strong>: If, Elif, Else, Tupla, Diccionario <br><br>
 Manejo de estructuras para el planteamiento de los siguientes ejercicios ✨<br>
 
 > [!IMPORTANT]
