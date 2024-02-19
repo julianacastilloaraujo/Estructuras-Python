@@ -1,8 +1,8 @@
 productos = (
     ("alimenticio", ("Leche", "Pan", "Frutas", "Verduras", "Huevos", "Carne", "Arroz")),
     ("aseo", ("Jabón", "Detergente", "Champú", "Crema dental", "Papel higiénico")),
-    ("licor", ("Cerveza", "Vino", "Whisky", "Ron"),
-     "electrodomesticos", ("Celular", "Televisor", "Nevera", "Lavadora", "Computador")),
+    ("licor", ("Cerveza", "Vino", "Whisky", "Ron")),
+    ("electrodomesticos", ("Celular", "Televisor", "Nevera", "Lavadora", "Computador")),
 )
 
 productos_usuario = []
