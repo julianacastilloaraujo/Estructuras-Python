@@ -1,5 +1,3 @@
-from builtins import input
-
 diccionarios = {
   "nombres": ["Juliana", "Julianita", "Julia", "Juli", "Julieta"],
   "telefonos": [3103271589, 3103211111, 3103222222, 3103233333, 3103244444]
