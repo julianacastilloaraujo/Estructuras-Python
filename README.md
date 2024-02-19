@@ -13,6 +13,7 @@ Manejo de estructuras para el planteamiento de los siguientes ejercicios ✨<br>
 * Sistema de numeracion
 * Funciones de conversion
 
-# Lista 🌐
-* Append 
-* Insert
+> [!NOTE]
+> Append 
+> Insert
+> Extend
