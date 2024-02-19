@@ -5,7 +5,7 @@ diccionarios = {
 
 print("Datos registrados:")
 for nombre, telefono in diccionarios.items():
-    print("Nombre: {nombre}, Teléfono: {telefono}")
+    print(f"Nombre: {nombre}, Teléfono: {telefono}")
 
 while True:
     agregar = input("\n¿Deseas agregar una nueva persona? (si/no): ")
