@@ -5,7 +5,7 @@ diccionarios = {
 
 print("Datos registrados:")
 for nombre, telefono in diccionarios.items():
-    print(f"Nombre: {nombre}, Teléfono: {telefono}")
+    print("Nombre: {nombre}, Teléfono: {telefono}")
 
 print("\nNúmeros de teléfono registrados:")
 for telefono in diccionarios["telefonos"]:
